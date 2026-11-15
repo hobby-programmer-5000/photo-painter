@@ -4,6 +4,12 @@ A single web page that paints any photo you give it, stroke by stroke, from a 12
 
 [한국어 README](README.ko.md)
 
+> **This repository is archived.** Photo Painter now lives on the tools site:
+> **https://hobby-programmer-5000.github.io/tools/photo-painter/**
+> ([source](https://github.com/hobby-programmer-5000/tools/tree/main/photo-painter)). That version has later fixes
+> (transparent images, dropping a photo anywhere on the page, very thin photos, a responsive End button) that this one does not.
+> What is here still works as a single offline file: download `index.html` and open it.
+
 ## Use
 
 Open `index.html` in a browser. Nothing to install, and it works offline.

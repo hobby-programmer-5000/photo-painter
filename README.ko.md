@@ -4,6 +4,12 @@
 
 [English README](README.md)
 
+> **이 저장소는 보관 처리되었습니다.** Photo Painter는 이제 tools 사이트에 있습니다:
+> **https://hobby-programmer-5000.github.io/tools/photo-painter/**
+> ([소스](https://github.com/hobby-programmer-5000/tools/tree/main/photo-painter)). 그쪽 버전에는 여기에 없는 수정이 들어 있습니다
+> (투명 이미지, 페이지 어디에나 사진 놓기, 아주 가는 사진, 멈추지 않는 끝 버튼).
+> 여기 있는 것은 오프라인 단일 파일로는 여전히 동작합니다. `index.html`을 내려받아 여세요.
+
 ## 쓰는 법
 
 `index.html`을 브라우저로 엽니다. 설치할 것이 없고 인터넷 연결 없이도 동작합니다.
